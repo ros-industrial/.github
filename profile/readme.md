@@ -8,7 +8,7 @@ The ROS-Industrial open source project seeks to provide modules and resources to
 
 ROS-Industrial is not a replacement for ROS but is intended to work within the ROS ecosystem. The strategy has been to provide utilities and resources in a ROS agnostic way to provide those interested in leveraging ROS and ROS 2 resources in the way that meets their needs. Many of the core developed resources are ROS agnostic with ROS or ROS 2 wrappers provided. In some cases specific ROS and ROS 2 versions are maintained and this is determined based on the nature of the resource and how it interacts with the ROS or ROS 2 ecosystem.
 
-You can learn more about ROS-Industrial, the Consortia that support the project and other GitHub organizations over at www.rosindustrial.org.
+You can learn more about ROS-Industrial, the Consortia that support the project and other GitHub organizations at [rosindustrial.org](https://www.rosindustrial.org).
 
 ## Status of repositories
 
