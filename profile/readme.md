@@ -4,7 +4,7 @@ Welcome to the ROS-Industrial GitHub organization.
 
 ## Purpose
 
-The ROS-Industrial open source project seeks to provide modules and resources to enable industrial relevant hardware, tools and applications leveraging the ROS ecosystem. The purpose of this organization is to track foundational capabilities and resources that are community leveraged, maintained and fully open source. This GitHub organization supports both community and consortia generated projects, modules and resources to enable industrial leverage of ROS and ROS 2 specifically, in industrial settings.
+The ROS-Industrial open source project seeks to provide modules and resources to enable industrial relevant hardware, tools and applications leveraging the ROS ecosystem. The purpose of this organization is to track foundational capabilities and resources that are community leveraged, maintained and fully open source. This GitHub organization supports both community and consortia generated projects, modules and resources to enable the use of ROS and ROS 2 specifically, in industrial settings.
 
 ROS-Industrial is not a replacement for ROS but is intended to work within the ROS ecosystem. The strategy has been to provide utilities and resources in a ROS agnostic way to provide those interested in leveraging ROS and ROS 2 resources in the way that meets their needs. Many of the core developed resources are ROS agnostic with ROS or ROS 2 wrappers provided. In some cases specific ROS and ROS 2 versions are maintained and this is determined based on the nature of the resource and how it interacts with the ROS or ROS 2 ecosystem.
 
