@@ -12,7 +12,7 @@ You can learn more about ROS-Industrial, the Consortia that support the project 
 
 ## Status of repositories
 
-In all cases in this organization these projects are open source and business friendly licensed. All the repositories herein are actively supported, by the supporting teams, and participants in the ROS-I open source project community along with the supporting consortia organizations of the specific project.
+All projects in this organization are open source and business friendly licensed. All the repositories herein are actively supported, by the supporting teams, and members of the ROS-Industrial open source community along with the supporting consortia organizations of the specific project.
 
 ## Issue trackers and Pull Requests
 
